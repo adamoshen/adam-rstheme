@@ -1,4 +1,4 @@
-# adam-rstheme
+# My RStudio Themes
 
 Derived from the
 [`One Dark`](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/one-dark.rstheme)
