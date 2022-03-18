@@ -6,7 +6,7 @@ and
 [`One Light`](https://github.com/gadenbuie/rsthemes/blob/main/inst/themes/one-light.rstheme)
 themes from the [`rsthemes`](https://github.com/gadenbuie/rsthemes) package.
 
-Changes are mostly for improved visibility, including, but not limited to
+Changes are mostly for improved visibility including, but not limited to,
 comments and highlights/selections.
 
 ## Light theme
