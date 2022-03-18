@@ -114,7 +114,7 @@
 
 .ace_keyword.ace_operator {
   font-style: normal;
-  color: #61afef;
+  color: #e83e8c;
 }
 
 .ace_keyword.ace_other.ace_unit {
