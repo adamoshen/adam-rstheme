@@ -27,4 +27,4 @@ comments and highlights/selections.
 
 ### R markdown
 
-
+![Preview of dark theme in a R markdown file](./img/dark-rmd.png)
