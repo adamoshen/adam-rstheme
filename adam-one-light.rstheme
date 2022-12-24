@@ -162,6 +162,10 @@
   background-color: inherit;
 }
 
+.ace_support.ace_function {
+  color: #0184bc;
+}
+
 .ace_identifier.ace_support.ace_function {
   color: #4078f2;
   background-color: inherit;
