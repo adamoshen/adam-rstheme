@@ -139,6 +139,10 @@
 }
 
 .ace_support.ace_function {
+  color: #56b6c2;
+}
+
+.ace_identifier.ace_support.ace_function {
   color: #61afef;
 }
 
