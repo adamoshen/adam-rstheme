@@ -11,8 +11,20 @@ comments and highlights/selections.
 
 ## Light theme
 
-![Preview of light theme](./img/light-preview.png)
+### R script
+
+![Preview of light theme in a R script file](./img/light-r.png)
+
+### R markdown
+
+![Preview of light theme in a R markdown file](./img/light-rmd.png)
 
 ## Dark theme
 
-![Preview of dark theme](./img/dark-preview.png)
+### R script
+
+![Preview of dark theme in a R script file](./img/dark-r.png)
+
+### R markdown
+
+![Preview of dark theme in a R markdown file](./img/dark-rmd.png)
