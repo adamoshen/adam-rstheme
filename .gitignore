@@ -1,1 +1,6 @@
+# Notes
+*.txt
+
+# Testing files
 testing.rstheme
+testing.R
