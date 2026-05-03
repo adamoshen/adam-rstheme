@@ -472,7 +472,7 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 
 /* fix overly zealous css rules */
 .gwt-DialogBox-ModalDialog .dialogContent .gwt-Label {
-  color: #333333;
+  color: #abb2bf;
 }
 
 /* job progress bar */
